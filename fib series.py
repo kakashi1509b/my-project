@@ -1,4 +1,4 @@
-print("Fibonaaci series")
+print("Fibonaaci series!")
 c=1
 while c!=0:
  a=int(input("How many terms do you want? :"))
